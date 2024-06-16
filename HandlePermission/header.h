@@ -7,6 +7,7 @@
 
 void driver_unload(PDRIVER_OBJECT driver_object);
 void handle_permission_lower_test(void);
+void thread_test(void* context);
 
 extern "C" uint8_t *PsGetProcessImageFileName(PEPROCESS);
 
