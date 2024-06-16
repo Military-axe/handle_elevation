@@ -1,2 +1,4 @@
-.vscode/
 x64/
+.vs/
+HandlePermission/.vscode/
+HandlePermission/x64/
